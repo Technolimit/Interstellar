@@ -11,6 +11,7 @@
 > If you fork this project, consider giving it a star in the original repository!
 
 **Join Our [Discord Community](google.com) for support, more links, and an active community!**
+[GitHub Documentation](https://docs.github.com)
 
 ## Features
 
